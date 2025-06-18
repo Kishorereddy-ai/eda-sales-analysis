@@ -4,7 +4,7 @@ This project performs EDA (Exploratory Data Analysis) on historical sales data u
 
 ## 📁 Files Included
 - `eda_sales.ipynb`: Jupyter Notebook
-- `sales_data.xlsx`: Sales Dataset
+- `data.csv`: Sales Dataset
 
 ## 🔧 Libraries Used
 - Pandas
